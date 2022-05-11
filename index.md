@@ -1,4 +1,9 @@
 # My personal website
 # TRAINING 
-.KSU 1
-.KSU 2
+```
+{
+  "firstName": "Zobaed",
+  "age": 25
+}
+```
+
